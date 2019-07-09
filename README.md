@@ -12,6 +12,7 @@ Vanilla Javascript, Jquery, HTML5, CSS3
 
 ## Features
 
+<<<<<<< HEAD
 Winning message, restarting the game.
 
 ## Preview
@@ -44,3 +45,9 @@ Winning message, restarting the game.
     - If there is a victory, show victory message
         - Play cannot continue while victory message is displayed
     - If there is not a victory, switch players -->
+=======
+Winning message, restarting the game. 
+
+## Preview
+
+>>>>>>> e9a7ac802355dd8e051abc8ea97381e3c5e83ff1
