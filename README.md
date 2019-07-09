@@ -16,6 +16,8 @@ Winning message, restarting the game.
 
 ## Preview
 
+https://gianpaolob.github.io/LasVegas-Lipsync-for-your-Life/
+
 <!-- 1. HTML/CSS
 
     - slots
