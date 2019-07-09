@@ -1,4 +1,22 @@
-1. HTML/CSS
+# Lipsync Battle in Las Vegas! Connect 4 game
+
+A small game to have fun with!
+
+## Overview
+
+This is the old and famous connect 4 game, reviewed in a more funny way! Hope you like it!
+
+## Techs
+
+Vanilla Javascript, Jquery, HTML5, CSS3
+
+## Features
+
+Winning message, restarting the game.
+
+## Preview
+
+<!-- 1. HTML/CSS
 
     - slots
         - a square with a circle in it
@@ -25,4 +43,4 @@
         - check diagonally
     - If there is a victory, show victory message
         - Play cannot continue while victory message is displayed
-    - If there is not a victory, switch players
+    - If there is not a victory, switch players -->
